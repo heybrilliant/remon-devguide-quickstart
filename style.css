@@ -12,14 +12,14 @@
 
 .remoteVideo {
   background: orange;
-  width: 240px;
-  height: 180px;
+  width: 480px;
+  height: 360px;
 }
 
 .localVideo {
   background: purple;
-  width: 240px;
-  height: 180px;
+  width: 480px;
+  height: 360px;
 }
 
 footer {
