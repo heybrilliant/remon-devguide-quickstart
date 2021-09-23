@@ -11,13 +11,13 @@
 }
 
 .remoteVideo {
-  background: orange;
+  background: #EEEEEE;
   width: 600px;
   height: 600px;
 }
 
 .localVideo {
-  background: purple;
+  background: #EEEEEE;
   width: 600px;
   height: 600px;
 }
